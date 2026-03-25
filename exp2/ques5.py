@@ -1,7 +1,7 @@
 thisdict={
-    "name":"abinas dash ",
-    "age":19,
-    "address":"bb street",
+    "name":"sravan kuumar pradhan ",
+    "age":20,
+    "address":"Bhawanipatna",
     "branch":"CSEAIML",
     "college":"gietu"
 }
